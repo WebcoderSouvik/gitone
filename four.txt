@@ -1,3 +1,7 @@
 four
 4
+<<<<<<< HEAD
 cholo development shikhi
+=======
+cholo shwapno chui
+>>>>>>> staging
